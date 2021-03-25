@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manmohan (@mpanda-wipro)
 - 👀 I’m interested in 
-- 🌱 I’m currently learning autonomous vehicle such as boat
-- 💞️ I’m looking to collaborate on Kafka, BQ, ML
+- 🌱 I’m currently learning autonomous vehicle such as autonomous boat
+- 💞️ I’m looking to collaborate on Kafka, BQ, ML, cloud engineering
 - 📫 How to reach me -
 
 <!---
